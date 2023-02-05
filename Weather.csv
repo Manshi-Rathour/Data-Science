@@ -1,0 +1,13 @@
+day,city,temperature,windspeed,event
+01-01-2023,mumbai,32,7,sunny
+02-01-2023,mumbai,30,9,fog
+03-01-2023,mumbai,29,6,fog
+04-01-2023,mumbai,28,10,rain
+01-01-2023,new york,20,11,sunny
+02-01-2023,new york,19,13,fog
+03-01-2023,new york,17,9,snow
+04-01-2023,new york,18,10,sunny
+01-01-2023,patna,30,12,sunny
+02-01-2023,patna,35,9,fog
+03-01-2023,patna,29,10,sunny
+04-01-2023,patna,34,8,rain
